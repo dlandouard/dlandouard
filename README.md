@@ -6,9 +6,13 @@
 
 Wanna know what we did as teams during the Bootcamp ?
 
- - Project 1 : HTML / CSS / JS: https://dlandouard.github.io/projetKaamelott/index.html
- - Project 2 : React.js / Fetching an API / using libraries : https://laloupe-fr-js-2103-pjt2-agence-vought.jsrover.wilders.dev/
- - Hackaton 1 : about 36 hours to code a creative front-end site on Mars theme by using an API : link coming soon.
+ - Project 1 : "basic" showcase site on Kaamelott them in HTML / CSS / JS:
+      https://dlandouard.github.io/projetKaamelott/index.html
+ - Project 2 : Commercial (obviously fake) front-end website using an API on SuperHeroes in React.js / using libraries:
+      https://laloupe-fr-js-2103-pjt2-agence-vought.jsrover.wilders.dev/
+ - Hackaton 1 : about 36 hours to code a creative front-end site on Mars theme by using NASA's API React.JS / advanced JS transition effects:
+      link coming soon.
+      Jury's "favorites" prize
 
 <!---
 dlandouard/dlandouard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
